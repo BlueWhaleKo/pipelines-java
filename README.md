@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/koko8624/helloworld/_apis/build/status/BlueWhaleKo.pipelines-java?branchName=master)](https://dev.azure.com/koko8624/helloworld/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
